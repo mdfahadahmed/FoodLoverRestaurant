@@ -270,21 +270,50 @@ a.get-started-btn:hover{
 }
 .lover-section .lover-list li{
 	text-align:center;
-	display:flex;
 	
 }
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
-/* hero-section style start from here */
+
+.footer-menu{
+	text-align: center;
+	display: block;
+	margin: 20px 0px;
+}
+.footer-menu li{
+	padding: 0px 10px;
+	display: inline-block;
+	list-style: none;
+}
+.footer-menu li a{
+	color: #fff;
+	padding: 0px 10px;
+	text-decoration: none;
+}
+
+.social-icon ul{
+	display: block;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.social-icon ul li{
+	padding: 0px 10px;
+	display: inline-block;
+	list-style: none;
+}
+
+.social-icon ul li a{
+	background-color: #fff;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    padding: 15px 0px;
+}
+.social-icon ul li a svg{
+	color: #35353b;
+	font-size: 20px;
+}
 
 
 
