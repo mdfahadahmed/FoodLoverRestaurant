@@ -1,0 +1,296 @@
+@font-face {
+  font-family: aachennbt;
+  src: url(../fonts/aachenn.ttf);
+}
+
+
+body{
+	font-family: 'Nunito', sans-serif;
+	padding:0;
+	margin:0;
+	overflow-x:hidden;
+	color: #;
+}
+h1,h2,h3,h4,h5,h6{
+	font-family: aachennbt;
+	font-weight: 500;
+	color: #;
+	
+}
+.backgoundheader{
+	
+	background-size: cover;
+	background-position: top right;
+	
+
+}
+
+header .nav-item{
+	color:;
+}
+
+
+
+header{
+	
+	background: url(../image/header-bg.jpg);
+	background-size:cover;
+	position: relative;
+  background-color: rgba( 40, 40, 45, 0.949 );
+  z-index:0;
+	
+}
+header::before{
+	content:"";
+	position: absolute;
+	top:0px;
+	bottom:0px;
+	left:0px;
+	right:0px;
+	background-color: rgba( 40, 40, 45, 0.949 );
+	z-index:0;
+}
+
+.header-content{
+	z-index:999;
+	position: relative;
+}
+
+
+a.get-started-btn.scrollto {
+    color: #28282d !important;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+
+
+
+header.navbar-nav{
+	margin-left: auto !important;
+    margin-right: 0px !important;
+	font-style:bold;
+	text-align:right;
+}
+
+.navbar a.nav-link {
+    color: #fff !important;
+}
+
+.navbar{
+	position: relative;
+}
+
+.navbar .menu-right{
+  position: absolute;
+  right: 0;
+}
+
+/* hero-section style start from here */
+
+
+
+.web-section h2{
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+.web-section p{
+	margin-bottom: 30px !important;
+	font-weight: bold;
+	font-size:20px;
+}
+.web-section h2{
+	color:#e58f00;
+}
+a.get-started-btn {
+    background: #e58f00;
+    color: #black;
+    margin-left: 25px;
+    padding: 10px 40px;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0;
+}
+
+a.get-started-btn:hover{
+	background: #e58f00;
+}
+/* hero-section style start from here */
+.design-section{
+	padding:60px;
+	color:#ffffff;
+	
+}
+.design-section .web-section{
+	padding:60px;
+}
+
+.logo.text-center.logo-center.menu-center {
+    position: absolute;
+    margin: 0px auto;
+    text-align: center;
+    left: 50%;
+}
+/* hero-section style start from here */
+.patishon-section{
+	padding:50px;
+	background-color:black;
+	color:#ffffff;
+}
+
+.patishon-section .first-section img{
+	width:650px;
+	max-width:100%;
+	height:450px;
+	text-align:center;
+}
+.patishon-section .secend-section{
+	padding:70px;
+}
+.patishon-section .secend-section p{
+	font-size:23px;
+}
+.patishon-section .secend-section h2{
+	font-size:bold;
+	font-size:30px;
+}
+
+/* hero-section style start from here */
+.gallery-section{
+	padding:60px;
+	background-color:#1d1d23;
+}
+.gallery-section h2{
+	text-align:center;
+	text-align:bold;
+	font-size:35px;
+	color:#ffffff;
+}
+.first-list{
+	 display: flex;
+	margin: 0;
+	
+	 
+}
+
+.first-list img{
+	width: 100%;
+	max-width: 100%;
+	height: 300px;
+}
+
+
+/* hero-section style start from here */
+.background-section{
+	padding:40px;
+	
+}
+.background-section{
+	padding:150px 0px;
+	background: url(../image/ssss.jpg);
+	background-size:cover;
+	background-position:top right;
+    color:#ffffff;
+	font-size:25;
+}
+.background-section h2{
+	text-align:center;
+	font-size:30px;
+}
+.background-section p{
+	
+	text-align: center;
+	font-size: 25px;
+}
+
+
+/* hero-section style start from here */
+
+.manu-section{
+	padding:70px;
+	background-color:#1d1d23;
+	color:#ffffff;
+}
+.manu-section h2{
+	text-align:center;
+	font-size:bold;
+	font-size:30px;
+	color:#ffffff;
+}
+.protom-section{
+	display: flex;
+	margin:0px;
+	text-align:center;
+}
+.menu-list img{
+	padding:30px;
+	height: 350px;
+	width: 300px;
+	
+}
+.menu-list h2{
+	padding: 10px;
+	font-size:bold;
+	font-size: 18px;
+	color:#e58f00;
+	margin:0px;
+}
+.menu-list p{
+	font-size:10px;
+}
+.menu-list h4{
+	font-size:18px;
+	color:#e58f00;
+}
+
+
+/* hero-section style start from here */ 
+
+.meal-section{
+	padding:40px;
+	background-color:#e58f00;
+}
+.meal-section img{
+	height: 500px;
+	width: 400px;
+}
+.best-list{
+	padding:80px;
+	margin:0px;
+}
+
+/* hero-section style start from here */
+.lover-section{
+	padding:100px;
+	background-color:#1d1d23;
+}
+.lover-section .lover-list h2{
+	text-align:center;
+	color:#ffffff;
+}
+.lover-section .lover-list li{
+	text-align:center;
+	display:flex;
+	
+}
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+/* hero-section style start from here */
+
+
+
+
+
+
+
+
+
